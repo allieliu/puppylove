@@ -1,0 +1,32 @@
+body {
+  background-color: pink;
+  border-style: solid;
+  display: inline-block;
+  text-align: center;
+  font-family: didot;
+  padding: 0px;
+  background-image: url(http://i.imgur.com/LditCZA.jpg);
+}
+
+h1 {
+  border-style: dotted;
+  border-width: 5px;
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 35px;
+  border-style: dotted;
+}
+
+ul {
+ list-style: none;
+ font-size: 30px;
+ border-style: double;
+ padding: auto;
+ display: inline;
+}
+
+p {
+  font-size:28px;
+}
